@@ -72,7 +72,7 @@ export default function Hero() {
           >
             <div className="relative aspect-video rounded-lg md:rounded-xl overflow-hidden">
               <motion.img
-                src="https://images.unsplash.com/photo-1527960471264-932f39eb5846"
+                src="https://bro.glasir.com.tr/storage/slider/zrFNZXypzzLKCQPCzbKQ5Ij7wL7VeK0zilY1O8G1.jpg"
                 alt="4BRO Energy Drinks"
                 className="w-full h-full object-cover hover-glow"
                 animate={{ y: [0, -20, 0] }}
