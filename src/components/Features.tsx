@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 export default function Features() {
   const features = [
     {
-      title: "4BRO Events",
+      title: "4BRO AI",
       description: "Die krassesten Parties, Festivals und Events. Sei dabei und erlebe unvergessliche Momente mit der 4BRO Community!",
       icon: <PartyPopper className="w-6 h-6" />,
       buttonText: "Events entdecken",
