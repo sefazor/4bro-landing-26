@@ -8,7 +8,7 @@ export default function Features() {
       title: "4BRO AI",
       description: "Die krassesten Parties, Festivals und Events. Sei dabei und erlebe unvergessliche Momente mit der 4BRO Community!",
       icon: <PartyPopper className="w-6 h-6" />,
-      buttonText: "Events entdecken",
+      buttonText: "Use Now",
       buttonLink: "https://events.4bro.de",
       gradient: "from-purple-500 to-blue-500"
     },
